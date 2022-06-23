@@ -1,7 +1,23 @@
-# Sounds of Endless Sky
+# Raw Sounds of Endless Sky
 
-This is a plugin aiming to provide music for Endless Sky as well as remaster the
-audio to balance it.
+This repository contains raw uncompressed music for the plugin [sounds of
+endless sky][1].
+
+# Music by Anthrophantasmus
+
+Licensed CC-BY-4.0
+
+See [`original/music/ByAnthrophantasmus/`][Anthrophantasmus-folder] for
+originals.  See [copyright](copyright) for licensing.
+
+Other profiles:
+
+- [Anthrophantasmus YouTube channel][Anthrophantasmus-youtube]
+- [Anthrophantasmus GitHub profile][Anthrophantasmus-github]
+
+[Anthrophantasmus-folder]: original/music/ByAnthrophantasmus/
+[Anthrophantasmus-youtube]: https://www.youtube.com/channel/UCryMx7RshwDKNHQ-amgEm0A
+[Anthrophantasmus-github]: https://github.com/Anthrophantasmus
 
 # Audio conversion
 
