@@ -5,19 +5,31 @@ endless sky][1].
 
 # Music by Anthrophantasmus
 
-Licensed CC-BY-4.0
-
-See [`original/music/ByAnthrophantasmus/`][Anthrophantasmus-folder] for
-originals.  See [copyright](copyright) for licensing.
+Licensed CC-BY-4.0.  See [copyright](copyright) for licensing.
 
 Other profiles:
 
+- Music under [original/music/ByAnthrophantasmus](original/music/ByAnthrophantasmus)
 - [Anthrophantasmus YouTube channel][Anthrophantasmus-youtube]
 - [Anthrophantasmus GitHub profile][Anthrophantasmus-github]
 
-[Anthrophantasmus-folder]: original/music/ByAnthrophantasmus/
 [Anthrophantasmus-youtube]: https://www.youtube.com/channel/UCryMx7RshwDKNHQ-amgEm0A
 [Anthrophantasmus-github]: https://github.com/Anthrophantasmus
+
+# Music by Thorne11
+
+Licensed CC-BY-4.0.  See [copyright](copyright) for licensing.
+
+Other profiles:
+
+- Music under [original/music/ByThorne11](original/music/ByThorne11)
+- Copied with permission from [ES-Ambience][ES-Ambience].
+- [Thorne11 Bandcamp profile][Thorne11-bandcamp]
+- [Thorne11 GitHub profile][Thorne11-github]
+
+[ES-Ambience]: https://github.com/Thorne11/ES-Ambience
+[Thorne11-bandcamp]: https://horrowithl.bandcamp.com/track/generative-ambient-test-track
+[Thorne11-github]: https://github.com/Thorne11
 
 # Audio conversion
 
